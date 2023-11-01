@@ -16,8 +16,7 @@ This project focuses on building a machine learning model for earthquake predict
 - [Evaluation](#evaluation)
 - [Results](#results)
 - [Contributing](#contributing)
-- [License](#license)
-- [Acknowledgments](#acknowledgments)
+
 
 ## Introduction
 
