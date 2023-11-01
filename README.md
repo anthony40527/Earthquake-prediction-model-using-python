@@ -45,7 +45,7 @@ Earthquake prediction is a challenging task, and this project explores the use o
 1. **Clone the repository:**
 
     ```bash
-    git clone https://github.com/yourusername/earthquake-prediction.git
+    https://github.com/anthony40527/Earthquake-prediction-model-using-python.git
     ```
 
 2. **Install the required dependencies:**
